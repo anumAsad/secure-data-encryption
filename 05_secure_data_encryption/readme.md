@@ -164,10 +164,3 @@ Good luck, and happy coding! 🚀
 Useful Links for learning:
 1.  [Fernet (symmetric encryption) using Cryptography module in Python](https://www.geeksforgeeks.org/fernet-symmetric-encryption-using-cryptography-module-in-python/)
 2.  [hashlib module in Python](https://www.geeksforgeeks.org/hashlib-module-in-python/)
-
-
-Once you are done submit this form ASAP:
-
-https://forms.gle/tS7C3sr55tUZ36GY8 
-
-Good luck! 🚀
