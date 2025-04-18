@@ -25,7 +25,9 @@ def encrypt_data(text: str) -> str:
     """Encrypt plain text"""
     return cipher.encrypt(text.encode()).decode()
 
-def decrypt_data(encrypted_text: str, passkey: str) -> str or None:
+from typing import Optional
+
+def decrypt_data(encrypted_text: str, passkey: str) -> Optional[str]:
     """Attempt to decrypt data if passkey matches"""
     hashed = hash_passkey(passkey)
     for key, value in stored_data.items():
